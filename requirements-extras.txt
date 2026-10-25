@@ -1,0 +1,9 @@
+# Optional extras (local use only; NOT needed for the deployed app).
+# Note: installing nltk switches the stemmer to Porter, so numbers may differ slightly from results/evaluation.json
+nltk
+gensim
+spacy
+# Translate / BERT-summary tab (large downloads, needs internet on first use)
+transformers
+torch
+sentencepiece

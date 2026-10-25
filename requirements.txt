@@ -1,0 +1,6 @@
+# Core packages needed to run the app on Streamlit Community Cloud
+streamlit>=1.30
+scikit-learn>=1.2
+numpy
+pandas
+matplotlib
